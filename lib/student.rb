@@ -5,6 +5,6 @@ class Student < User
   end
 
   def learn
-   @knowledge << "black history"
+   @knowledge << string
  end
 end
